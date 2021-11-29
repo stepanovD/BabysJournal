@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baby Journal</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_record_title">Добавить запись</string>
+    <string name="cancel">Отменить</string>
+    <string name="add">Добавить</string>
+    <string-array name="events">
+        <item>Начало сна</item>
+        <item>Окончание сна</item>
+        <item>Начало кормления</item>
+        <item>Окончание кормления</item>
+        <item>Начало прогулки</item>
+        <item>Окончание прогулки</item>
+        <item>Покакала</item>
+    </string-array>
+</resources>
